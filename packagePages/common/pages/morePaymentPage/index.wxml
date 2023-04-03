@@ -1,2 +1,0 @@
-<tree-selector class="tree-select" datas="{{payments}}" bind:getConfirmData="getCheckboxData">
-</tree-selector>
